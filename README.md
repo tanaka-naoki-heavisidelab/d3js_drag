@@ -1,3 +1,5 @@
+![output](https://user-images.githubusercontent.com/93065464/151659467-1de2a186-4d54-4a2f-b086-64406f8c2446.gif)
+
 svelte-app@1.0.0
 ├── @rollup/plugin-commonjs@17.1.0
 ├── @rollup/plugin-node-resolve@11.2.1
